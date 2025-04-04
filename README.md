@@ -3,7 +3,7 @@ Using SQL to check Conversion Rate of Students who purchase a Subscription
 
 Using SQL to estimate the fraction of students who purchase a subscription after starting a lecture, i.e., the free-to-paid conversion rate among students who’ve engaged with video content on the 365 platform https://learn.365datascience.com/. 
 
-These are the following guided  and steps
+These are the following guides and steps
 
 1. Combining the 3 tables
 2. Determine the First Date Watched and and First date Purchased
